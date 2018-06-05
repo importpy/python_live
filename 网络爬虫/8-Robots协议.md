@@ -27,7 +27,7 @@ Disallow: /
 User-agent: WochachaSpider 
 Disallow: /
 ```
-*教育部网站没有rebots,协议*
+*教育部网站没有robots,协议*
 
 ## Robots协议使用
 网络爬虫自动或人工识别robots.txt文件，再进行内容爬取
